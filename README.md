@@ -8,11 +8,10 @@ The primary goal is to demonstrate:
 -   Serving data via REST APIs from a custom backend.
 -   Basic off-page SEO implementation.
 
-**Live Demo (Frontend Only - Data may be mocked or unavailable if backend is not also deployed):**
-[Link to your Vercel/Netlify deployment of the frontend] - *Replace this with your actual deployed frontend URL*
+![screencapture-localhost-3000-specialties-general-physician-internal-medicine-2025-05-09-03_26_46 (1)](https://github.com/user-attachments/assets/8cd9e1c8-93fb-4fe1-9cb9-55a22b59ac72)
 
-**Backend API (if deployed separately):**
-[Link to your Render/Heroku/etc. deployment of the backend] - *Replace this with your actual deployed backend URL*
+**Live Demo (Frontend Only - Data may be mocked or unavailable if backend is not also deployed):**
+[Link to your Vercel/Netlify deployment of the frontend]
 
 ## Features
 
