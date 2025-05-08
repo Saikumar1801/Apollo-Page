@@ -11,7 +11,7 @@ The primary goal is to demonstrate:
 ![screencapture-localhost-3000-specialties-general-physician-internal-medicine-2025-05-09-03_26_46 (1)](https://github.com/user-attachments/assets/8cd9e1c8-93fb-4fe1-9cb9-55a22b59ac72)
 
 **Live Demo (Frontend Only - Data may be mocked or unavailable if backend is not also deployed):**
-[Link to your Vercel/Netlify deployment of the frontend]
+[[Link to your Vercel/Netlify deployment of the frontend]](https://apollo-page-ms5w.vercel.app/)
 
 ## Features
 
