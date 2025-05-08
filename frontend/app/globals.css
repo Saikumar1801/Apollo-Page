@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add custom base styles here if needed */
+body {
+  font-family: 'Arial', sans-serif; /* Or a font closer to Apollo's */
+}
