@@ -1,9 +1,9 @@
 {
-  "routes": [
+  "redirects": [
     {
-      "src": "/",
-      "dest": "/specialties/general-physician-internal-medicine",
-      "statusCode": 301
+      "source": "/",
+      "destination": "/specialties/general-physician-internal-medicine",
+      "permanent": true
     }
   ]
 }
